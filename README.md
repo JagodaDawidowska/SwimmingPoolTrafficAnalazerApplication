@@ -14,14 +14,14 @@ The purpose of the application is to present the collected data received from th
 Thanks to the functionalities, the user will be able to check the pool traffic during their desired time range.
 
 ## Technologies Used
-- Android Studio - Application development
+- Android Studio - Application development.
 - Volley - The library for handling HTTP network requests.
 - Anychart - The library for creating charts.
-- Java 
+- Java.
 
 ## Features
 List of the features:
-- feature to present all the collected data
+- feature to present all the collected data.
 - feature in progress - to present data from a period specified by the user.
 - features to present data for the swimming pool/SPA within the current hour.
 - features to present data for the swimming pool/SPA within the current day.
